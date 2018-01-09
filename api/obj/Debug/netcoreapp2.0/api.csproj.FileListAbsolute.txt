@@ -1,0 +1,10 @@
+E:\mining\api\bin\Debug\netcoreapp2.0\api.deps.json
+E:\mining\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+E:\mining\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+E:\mining\api\bin\Debug\netcoreapp2.0\api.dll
+E:\mining\api\bin\Debug\netcoreapp2.0\api.pdb
+E:\mining\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+E:\mining\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+E:\mining\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+E:\mining\api\obj\Debug\netcoreapp2.0\api.dll
+E:\mining\api\obj\Debug\netcoreapp2.0\api.pdb
